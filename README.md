@@ -1,4 +1,4 @@
 # image-slider-with-multi-control
 
-#Live
+# Live
 https://usmanliaqat99.github.io/image-slider-with-multi-control
